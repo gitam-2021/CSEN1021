@@ -16,6 +16,6 @@ For CSEN1021 course we rely on `git`, a popular tool for saving different versio
 1. Click **Add SSH Key**.
 1. Execute `ssh -T git@ssh.github.com -p 443`.  You should be greeted with "Hi USERNAME! You've successfully authenticated, but GitHub does not provide shell access."  If you don't see that, review the above steps to verify you didn't skip something.
 
-You should now be able to use `check50` and `submit50` (and `git`) without GitHub username and password. But if you created a passphrase, you might still be prompted for that.
+You should now be able to use clone repositories and push changes from the machine to github.
 
 ***
