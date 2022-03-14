@@ -1,4 +1,7 @@
-1. Open Incoginito in Google Chrome browser.
+1. Open New Incoginito Window in Google Chrome browser.
+![New-Incognito-Window](assets/00-select-new-incognito-window.jpg)
+
+It will look like this. 
 ![Incognito](assets/01-open-incognito-in-google-chrome.jpeg)
 
 2. Click Sign-up
