@@ -1,8 +1,15 @@
-[How to Sign-up in REPLIT?](tutorials/signup-replit)  
+# Welcome to CSEN1021: Programming using Python
 
-### Exploration examples  
-0. [C for loop](https://gitam-2021.github.io/code-examples/explorable/loops/for/)
+## Tutorials
+1. [How to Sign-up in REPLIT?](tutorials/signup-replit)  
 
-1. [Python for-in loop using 2 arguments in range()](../code-examples/explorable/loops/for-range-2-py/)
+## Exploration examples 
 
-2. [Python for-in loop using 3 arguments in range()](../code-examples/explorable/loops/for-range-3-py/)
+### Loops
+1. [C for loop](../code-examples/explorable/loops/for/)
+2. [For loop](../code-examples/explorable/loops/for-range-2-py/) using ```range``` with 2 arguments.
+3. [For loop](../code-examples/explorable/loops/for-range-3-py/) using ```range``` with 3 arguments.
+4. [For loop](../code-examples/explorable/loops/for-list-range-3-py/) using a ```list``` created with ```range``` with 3 arguments.
+
+### Strings
+1. being prepared...
