@@ -12,4 +12,5 @@
 4. [For loop](../code-examples/explorable/loops/for-list-range-3-py/) using a ```list``` created with ```range``` with 3 arguments.
 
 ### Strings
-1. being prepared...
+1. [String indexing](../code-examples/explorable/strings/indexing/).
+2. [String slicing](../code-examples/explorable/strings/slicing/) using ```begin:end```, just ```:end``` and ```begin:```.
