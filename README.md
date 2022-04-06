@@ -14,3 +14,6 @@
 ### Strings
 1. [String indexing](../code-examples/explorable/strings/indexing/).
 2. [String slicing](../code-examples/explorable/strings/slicing/) using ```begin:end```, just ```:end``` and ```begin:```.
+
+### Patterns
+1. [Pattern Printing](../code-examples/explorable/patterns/one-pattern/).
