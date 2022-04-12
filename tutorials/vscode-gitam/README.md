@@ -38,14 +38,14 @@ Open the link for the assignmnet given by your teacher. Accept the assignment. A
 
 
 ### Step#4: Working on the assignment
-1. Go to your assignment repository and copy the clone URL.  
+1. Go to your assignment repository and copy the clone URL. Here is an example. You need to use your assignment repository. 
    ![Clone URL](assets/01-clone-url.jpg)
 2. Open a terminal window, if not open already, within [Visual Studio Code](https://cs50.readthedocs.io/code/).
-In the terminal if not already in `GITAM` folder, change directory to `GITAM`. Inside that type the following command
+In the terminal if not already in `GITAM` folder, change directory to `GITAM`. Inside that type the following command.
     ```bash
     git clone <assignment-repository-url>
     ```
-3. Now expand the folder in the files menu and start working on the code just like in the REPLIT editor.
+3. A folder will be created with the files of the assignment. Now expand the folder in the VSCode Explorer and start working on the code just like in the REPLIT editor.
 
 
 ## Vocabulary
