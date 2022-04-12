@@ -1,9 +1,12 @@
-# Overview: VSCode in Cloud
+# How to submit your first assignment?
 ![Student Experience](assets/00-vscode-gitam-flow.jpg)
 
 ## Steps
-1. Login to Github
+1. Login to Github.
 2. Create a Dev machine in the cloud. Configure Github SSH with your Dev machine in the Cloud. Select the `GITAM` folder.
+3. Accept the assignment.
+4. Working on the assignment. 
+5. Submitting your assignment.
 
 ### Step#1: Login to Github
 [Login](https://github.com/login) to your github account.
@@ -46,6 +49,10 @@ In the terminal if not already in `GITAM` folder, change directory to `GITAM`. I
     git clone <assignment-repository-url>
     ```
 3. A folder will be created with the files of the assignment. Now expand the folder in the VSCode Explorer and start working on the code just like in the REPLIT editor.
+
+### Step#5: Submitting your assignment
+You don't need to do anything. Just compelete the assignment. Once the due date is completed, you updated assignment code snapshot will be taken and will be evaluated.
+
 
 
 ## Vocabulary

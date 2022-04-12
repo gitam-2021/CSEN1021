@@ -2,7 +2,7 @@
 
 ## Tutorials
 1. [How to Sign-up in REPLIT?](tutorials/signup-replit/) 
-2. [How to setup VSCode in Cloud?](tutorials/vscode-gitam/) 
+2. [How to submit your first assignment?](tutorials/vscode-gitam/) 
 
 ## Exploration examples 
 
