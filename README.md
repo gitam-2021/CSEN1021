@@ -1,7 +1,8 @@
 # Welcome to CSEN1021: Programming using Python
 
 ## Tutorials
-1. [How to Sign-up in REPLIT?](tutorials/signup-replit)  
+1. [How to Sign-up in REPLIT?](tutorials/signup-replit/) 
+2. [How to setup VSCode in Cloud?](tutorials/vscode-gitam/) 
 
 ## Exploration examples 
 
