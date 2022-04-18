@@ -17,6 +17,8 @@ VSCode interface will be shown after it creates a Dev machine in the cloud.
 
 ### Step#2.2: Configure Github SSH with your Dev machine in the cloud
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k57pr3mpLFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. Open a terminal window, if not open already, within [Visual Studio Code](https://cs50.readthedocs.io/code/).
 2. Execute `ssh-keygen`. When prompted to "save the key," just hit Enter, without typing anything.
 3. You'll then be prompted for a "passphrase" (i.e., password). No need to input a passphrase; just hit Enter. You'll then see a "randomart image" that you can ignore.
