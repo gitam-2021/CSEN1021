@@ -27,7 +27,7 @@ VSCode interface will be shown after it creates a Dev machine in the cloud.
 6. Click **New SSH Key**.
 7. Paste your public key into the text box under **Key**. Optionally input a title under **Title** (e.g., `VSCode in Cloud`).
 8. Click **Add SSH Key**.
-9. Execute `ssh -T git@ssh.github.com -p 443`.  You should be greeted with "Hi USERNAME! You've successfully authenticated, but GitHub does not provide shell access."  If you don't see that, review the above steps to verify you didn't skip something.
+9. Execute `ssh -T git@ssh.github.com -p 443`. If it asks `Are you sure you want to continue connecting (yes/no/[fingerprint])?`, type `yes`. After that you should be greeted with `Hi USERNAME! You've successfully authenticated, but GitHub does not provide shell access.`  If you don't see that, review the above steps to verify you didn't skip something.
 
 ### Step#2.3: Configure GITAM folder and open it
 1. Open a terminal window, if not open already, within [Visual Studio Code](https://cs50.readthedocs.io/code/).
